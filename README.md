@@ -11,7 +11,6 @@ You can modify avatar attributes, batch-edit multiple entries, and export SQL sc
   - Shop visibility
   - Gold and Cash prices (weekly, monthly, eternal)
   - Stats (attack, defense, energy, shield regen, item delay, popularity)
-  - Description
 - Batch edit selected rows.
 - Direct table editing with double-click.
 - Export to SQL:
