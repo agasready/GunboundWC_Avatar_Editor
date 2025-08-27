@@ -1,5 +1,5 @@
 # GunboundWC S1 Avatar Editor
-
+![Screenshot](https://raw.githubusercontent.com/agasready/GunboundWC_Avatar_Editor/refs/heads/main/Screenshot%202025-08-27%20151609.png)
 A desktop tool for editing **GunboundWC S1 avatar DAT files**.  
 Built with Python and Tkinter, this editor allows you to open, edit, and save DAT files used by GunboundWC.  
 You can modify avatar attributes, batch-edit multiple entries, and export SQL scripts for easy integration with your game server.
